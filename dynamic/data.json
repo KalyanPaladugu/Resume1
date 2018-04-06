@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "picture": "images/1.gif",
+    "downlode": "Downlode",
+    "name": "HI I'M P.kalyan Chakravarthi",
+    "designation": "web developer & web designer",
+    "description": "Hello! I’m P.kalyan Chakravarthi. Web Developer with over 8 years of experience. Experienced with all stages of the development cycle for dynamic web projects. Having an in-depth knowledge including advanced HTML5, CSS3, JavaScript, jQuery, Angular JS. Strong background in management and leadership."
+  },
+  "data": [{
+      "name": "age",
+      "value": "24"
+    },
+    {
+      "name": "Address",
+      "value": "5-63,Guntur,Ap "
+    },
+    {
+      "name": "Email",
+      "value": "kalyanchakravarthi.1994@gmail.com "
+    },
+    {
+      "name": "Phone",
+      "value": "9884569789 "
+    }
+  ],
+
+
+  "skills": [{
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Technologies",
+      "level": "Master",
+      "keywords": [
+        "Java", "JEE", "JNDI", "Web Services (SOAP & RestFull)"
+      ]
+    },
+    {
+      "name": "Data Base",
+      "level": "",
+      "keywords": [
+        "Oracle", "MySQL/Percona", "PostgreSQL", "MongoDB", "Cassandra"
+      ]
+    },
+    {
+      "name": "Operating System",
+      "level": "",
+      "keywords": [
+        "Windows", "UNIX & LINUX"
+      ]
+    }
+  ],
+
+  "education": [{
+      "quili": "B.Tech",
+      "number": [
+        "Electronics and communication engineering",
+        "Vasireddy Venkatadri Institute of Technology,Guntur",
+        "JNTU Kakinada",
+        "64%"
+      ]
+    },
+    {
+      "quili": "Intermediate",
+      "number": [
+        "Maths physics and chemistry",
+        "NRI Junior College, Guntur",
+        "Board of Intermediate Education",
+        "89%"
+      ]
+
+    },
+    {
+      "quili": "SSC",
+      "number": [
+        "General",
+        "ST. Mary's High School, Pedaparimi",
+        "Board of Secondary School",
+        "82%"
+      ]
+
+    }
+  ],
+
+  "experienc": [{
+        "job": "Progresive WEB Apps",
+        "time": "2018 - Present",
+        "company": "APSSDC",
+        "desc": [
+          " I Given Trained Thousands of student on Different Software Technologies.",
+          "like Java ,C Programming Languages, WEb Technologies, Mobile App Inventor, Scratch tool. "
+        ]
+      },
+      {
+        "job": "Junior Software Engineer",
+        "time": "2017 - 2018",
+        "company": "APSSDC, Vijayawada",
+        "desc": [
+          " I Given Trained Thousands of student on Different Software Technologies.",
+          "like Java ,C Programming Languages WEb Technologies, Mobile App Inventor, Scratch tool."
+
+        ]
+        },
+        {
+          "job": "Trainer Cum Developer",
+          "time": "2016 - 2017",
+          "company": "APSSDC, Guntur",
+          "desc": [
+            " I Given Trained Thousands of student on Different Software Technologies.",
+            "like Java ,C Programming Languages WEb Technologies, Mobile App Inventor, Scratch tool. "
+      ]
+          }
+        ]
+
+
+      }
